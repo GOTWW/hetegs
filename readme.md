@@ -8,11 +8,11 @@ O papel do Analista de Performance é receber os dados gerados pela IA, interpre
 
 Para apoiar esse analista, desenvolvemos um programa em C que:
 
-- Registra profissionais de TI e seus níveis (junior, pleno, sênior);
-- Armazena indicadores de performance ao longo de vários períodos (por exemplo, sprints ou meses);
-- Compara profissionais do mesmo nível;
-- Identifica quando a performance de um profissional caiu ou aumentou recentemente;
-- Ordena profissionais de um mesmo nível por desempenho médio;
+- Registra profissionais de TI e seus níveis (junior, pleno, sênior)
+- Armazena indicadores de performance ao longo de vários períodos (por exemplo, sprints ou meses)
+- Compara profissionais do mesmo nível
+- Identifica quando a performance de um profissional caiu ou aumentou recentemente
+- Ordena profissionais de um mesmo nível por desempenho médio
 - Ajuda o analista a identificar quem precisa de atenção, quem está acima da média e onde ocorreram quedas de performance.
 
 assim podemos criar um sistema em C que simule o trabalho do Analista de Performance usando dados vindos de uma IA (no programa, os dados são digitados pelo usuário), utilizando estruturas de dados e algoritmos adequados (TAD, ordenação e busca).
